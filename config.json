@@ -1,0 +1,18 @@
+{
+    "config":{
+		"screenshot_path":"C:/Users/MAJA/Pictures/Screenshots",
+		"author": "Author Name",
+		"clear_directory": true
+	},
+    "queries":{
+		"table1": "Select column1,column2,column3 from table1",
+		"table2": "Select column1,column2,column3 from table2",
+		"table3": "Select column1,column2,column3 from table3"
+	},
+	"document":{
+		"This is document name": ["First heading","No heading for next image","","table1","","table2"],
+		"This is Another doc Name": ["Main Head","random Head","","",""],
+		"Existing doc Name": ["docReader"]
+		
+	}
+}
